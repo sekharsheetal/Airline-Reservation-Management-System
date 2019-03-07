@@ -1,0 +1,2 @@
+# Airline-Reservation-Management-System
+-Implemented an Airline Reservation Systems using Swing Framework which enables the user to book a flight. -A Master travel schedule was created to store the list of flights from all airlines and filters could be applied based on the price and date -A user can select a flight based on the destination , date of travel etc and other such filters.  -Accordingly the total cost is calculated.   
